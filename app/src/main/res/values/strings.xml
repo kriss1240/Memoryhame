@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Memorygame</string>
+    <string name="nimi1">mängija 1 nimi</string>
+    <string name="nimi2">mängija 2 nimi</string>
+    <string name="p1">p1</string>
+    <string name="title_activity_start">title activitty start</string>
+    <string name="title_activity_logo">title activity logo</string>
+</resources>
